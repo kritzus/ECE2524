@@ -1,0 +1,50 @@
+PartID: C86932
+Description: CAP,CHIP,TANT,4.7uF,16V,20%
+Footprint: 1206
+Quantity: 10
+%%
+PartID: C86933
+Description: CAP,CHIP,TANT,1mF,2.5V,20%
+Footprint: 2917
+Quantity: 5
+%%
+PartID: C87118
+Description: CAP,CHIP,TANT,100uF,6V,20%
+Footprint: 3010
+Quantity: 8
+%%
+PartID: R67811
+Description: RES,100HM,1/8W,5%,SMD
+Footprint: 0805
+Quantity: 15
+%%
+PartID: R67817
+Description: RES,100HM,1/4W,1%,SMD
+Footprint: 1206
+Quantity: 10
+%%
+PartID: T48979
+Description: IC\ QUAD\ 2-IN\ NAND\ GATE
+Footprint: 14-SOIC
+Quantity: 2
+%%
+PartID: T49046
+Description: CONVERTER\ DC/DC\ 5V\ OUT\ 1W
+Footprint: 8-SMD
+Quantity: 1
+%%
+PartID: D30421
+Description: DIODE\ ZENER\ DUAL\ 6.8V
+Footprint: SOT-523
+Quantity: 1
+%%
+PartID: C42312
+Description: N63-Capacitor
+Footprint: C43216
+Quantity: 13
+%%
+PartID: C55231
+Description: N61-Capacitor
+Footprint: C32sad
+Quantity: 17
+%%

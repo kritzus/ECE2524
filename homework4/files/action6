@@ -1,0 +1,3 @@
+list all with Footprint=3010
+set Quantity=99 for Footprint=3010
+list all with Quantity=99
