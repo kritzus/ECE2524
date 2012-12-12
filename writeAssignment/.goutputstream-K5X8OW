@@ -1,0 +1,16 @@
+README: Python vs C/C++
+=======================
+
+1) Justification
+----------------
+
+This assignment is mostly about the python language since python is new to most of the people in class and we learned a lot about it. I think it is a good idea to spend a little time summing up what one has learned about a programming language and it is even more important to think about for what one could use this language. When I took ECE4524 (Intro. to AI) this semester I was allowed to use any of the most common programming languages but I was not really able to do so and simply picked the one I learned most recently. It turned out to be quite complicated for most of the assignments. I think that just now when the content is most present in memory is the best time to think about what a language is good at and what it's not good at compared to other languages. I think that is a good step to remember the most important concepts and to be able to use it when appropiate. I have been learning different programming languages on university level for two years now and think that these were taught too seperated from each other without committing oneself to the big picture which is necessary to remember it. Python brings some great concepts and high comfort for some things and it would be a pity if one forgets about it too soon.
+
+2) Grading
+----------
+
+I think the two tasks can be weighed about even but I would give anyone room for his own thoughts. It is fine if one has a precise idea of what is different in these two languages and only gives a short example. It is also fine if one writes a more detailed example and concentrates on the basic differences.
+However, the focus for this assignment is definitely on the content.
+Of course, the code should work but I think most of the people would provide code that emphasizes an obvious example that does not even need to be invoked.
+It is more important that the example is appropriate to emphasize differences which is not to hard to achieve.
+
